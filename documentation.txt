@@ -1,0 +1,11 @@
+The XS System header features a clean two-row dark blue (#003366) and white design with Arial font, comprising a top navigation row with "XS" logo, four main links (Browse, Deals with blue "NEW" badge, Resources, Support), a light gray search bar, login/account links, a solid blue "Request Quote" button, and a bordered blue "Cart" button, followed by a filter row with six dropdown selectors (Type, Category, Location/Shipping, Price/Rate, Rating, Font, Color) using blue accent (#0066cc) hover states, a notification bell with orange (#ff6600) dot, and a "Reset Filters" button, all built with responsive flexbox layout, proper CSS variables, and JavaScript that handles navigation, search, filtering, and displays error messages for unimplemented pages while maintaining a professional e-commerce and service booking interface.
+
+File Paths:
+
+Header HTML: templates/customer/customer-templates/partials/header.html
+
+Header CSS: templates/customer/css/customer-header.css
+
+Header JS: templates/customer/js/customer-header.js
+
+Server: server.js
